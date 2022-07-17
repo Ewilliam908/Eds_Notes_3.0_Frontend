@@ -13,7 +13,7 @@ As someone who is always on the move, I needed somehwere to track my activities,
 Wireframe:
 Method  |   Path    |   Purpose
 --------------------------------
-[](src/images/Wireframe%20eds%20notes.drawio)
+![](src/images/eds_notes_visual.JPG) 
 
 Database:
 
