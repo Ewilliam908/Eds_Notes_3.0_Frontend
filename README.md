@@ -27,7 +27,7 @@ Users:
 Name    |   Data-type   |   Prop
 ------------- | ------------- |------------
 users_id    |   Interger |   primary key
-name    |   TEXT    |   NOT NULL
+name    |   VARCHAR    |   NOT NULL
 email   |   VARCHAR |   NOT NULL
 
 Tasks:
