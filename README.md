@@ -12,7 +12,7 @@ As someone who is always on the move, I needed somehwere to track my activities,
 
 Wireframe:
 Method  |   Path    |   Purpose
---------------------------------
+----------  |   ----------  |   ----------
 Get     |   /           | login page
 Post    |   /tasks      | create a new task
 Get     |   /tasks/:id  | specific task
