@@ -1,4 +1,13 @@
-# Getting Started with Create React App
+# Ed's Notes 3.0
+
+Ed's Notes 3.0  is a website designed to keep me, Edwin William, organized and accountable.
+
+As someone who is always on the move, I needed somehwere to track my activities, appointments, commitments. Example:
+* Family commitments
+* Work commitments
+* Personal commitments
+
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
