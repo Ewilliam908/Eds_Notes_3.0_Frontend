@@ -2,7 +2,7 @@ import React, {Fragment} from "react";
 import InputTodo from "./components/InputTodo";
 import ListTodo from "./components/ListTodo";
 import './App.css';
-import {useEffect, useState} from 'react';
+//import {useEffect, useState} from 'react';
 
 // function App(){
 //   const [backendData, setBackendData] = useState([{}])
@@ -28,6 +28,7 @@ import {useEffect, useState} from 'react';
 
 
 function App() {
+ 
   return (
     <Fragment>
      <div className="container">

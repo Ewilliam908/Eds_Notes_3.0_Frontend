@@ -21,7 +21,7 @@ const ListTodo = () => {
 
   const getTodos = async () => {
     try {
-      const response = await fetch("http://localhost:5000/models/tasks");
+      const response = await fetch("http://localhost:5000/tasks");
       const jsonData = await response.json();
 
       setTodos(jsonData);

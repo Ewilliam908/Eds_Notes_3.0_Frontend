@@ -7,7 +7,7 @@ const InputTodo = () => {
     e.preventDefault();
     try {
       const body = { description };
-      const response = await fetch("http://localhost:5000/models/tasks", {
+      const response = await fetch("http://localhost:5000", {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify(body)
@@ -29,7 +29,7 @@ const InputTodo = () => {
           value={description}
           onChange={e => setDescription(e.target.value)}
         />
-        <button className="btn btn-success">Add</button>
+        <button className="btn btn-success">Commit</button>
       </form>
     </Fragment>
   );
