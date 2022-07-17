@@ -13,6 +13,12 @@ As someone who is always on the move, I needed somehwere to track my activities,
 Wireframe:
 Method  |   Path    |   Purpose
 --------------------------------
+Get     |   /           | login page
+Post    |   /tasks      | create a new task
+Get     |   /tasks/:id  | specific task
+Put     |   /task/:id   | update task
+Delete  |   /task/:id   | delete task   
+
 ![](src/images/eds_notes_visual.JPG) 
 
 Database:
